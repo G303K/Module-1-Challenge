@@ -1,24 +1,50 @@
-# Prework Study Guide Webpage
+# Homework Challenge Week 1
 
-## Description
+## Badges
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Installation
+## Table of Contents
 
-N/A
-
-## Usage
-
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
-
-## Credits
-Collaborators:
-https://github.com/mrsargent00
-https://github.com/benrodriguezmoran
-
-N/A
+- [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions?](#questions)
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Read more about MIT here:
+[MIT](https://opensource.org/licenses/MIT)
+
+## Description
+
+This application is a homework assignment for the MSU Coding Bootcamp.
+In this challange we were tasked with refactoring existing code to meet standards given in our acceptance criteria.
+
+## Installation
+
+Required applications:
+Visual Studio Code: (https://code.visualstudio.com/)
+Git for MAC/Windows/Linux: (https://git-scm.com/downloads)
+
+## Usage
+
+To use, first download the above required applications in [Installation](#installation).
+
+- Clone the repository to your local machine.
+- After cloning the repository navigate to the index.html file and open it.
+- To view images used and the CSS
+
+## Contributors:
+
+- Homework: https://github.com/mrsargent00
+- Homework: https://github.com/benrodriguezmoran
+- README template: https://github.com/reidk361
+
+  ## Questions?
+
+  ### Reach me here:
+
+  [G303K] [github](https://github.com/G303K)
+  Email: micder18@gmail.com
