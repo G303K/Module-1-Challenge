@@ -34,7 +34,7 @@ To use, first download the above required applications in [Installation](#instal
 
 - Clone the repository to your local machine.
 - After cloning the repository navigate to the index.html file and open it.
-- To view images used and the CSS
+- To view images used and the CSS navigate to the "assets" folder in the repository.
 
 ## Contributors:
 
@@ -46,5 +46,5 @@ To use, first download the above required applications in [Installation](#instal
 
   ### Reach me here:
 
-  [G303K] [github](https://github.com/G303K)
-  Email: micder18@gmail.com
+* Github https://github.com/G303K
+* Email: micder18@gmail.com
