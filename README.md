@@ -37,9 +37,9 @@ To use, first download the above required applications in [Installation](#instal
 - To view images used and the CSS navigate to the "assets" folder in the repository.
 
 ## Contributors:
-
-- Homework: https://github.com/mrsargent00
-- Homework: https://github.com/benrodriguezmoran
+- Homework code source: https://git.bootcampcontent.com/Michigan-State-University/MSU-VIRT-FSF-PT-07-2023-U-LOLC
+- Homework help: https://github.com/mrsargent00
+- Homework help: https://github.com/benrodriguezmoran
 - README template: https://github.com/reidk361
 
   ## Questions?
