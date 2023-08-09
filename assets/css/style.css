@@ -4,10 +4,12 @@
   margin: 0;
 }
 
+/* This body of our webpage */
 body {
   background-color: #d9dcd6;
 }
 
+/* This is the blue bar at the top of the page where our headers are located  */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,15 +18,18 @@ body {
   color: #ffffff;
 }
 
+/* This is website homepage title */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* This is website homepage title color */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
+/* This is the list of topics on the site that link to places within the site */
 .header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,6 +38,7 @@ body {
   font-size: 20px;
 }
 
+/* This is the  unordered list for our   */
 .header div ul {
   list-style-type: none;
 }
@@ -51,6 +57,7 @@ p {
   font-size: 16px;
 }
 
+/* This is the background splash art for the home page */
 .background {
   height: 800px;
   width: 100%;
@@ -135,6 +142,7 @@ p {
   max-width: 150px;
 }
 
+/* This is style sheet for the search-engine-optimization section  */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -143,7 +151,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* This is style sheet for the online-reputation-management section  */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -152,7 +160,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* This is style sheet for the social-media-marketing section  */
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -189,6 +197,7 @@ p {
   font-size: 36px;
 }
 
+/* This is style sheet for the footer */
 .footer {
   padding: 30px;
   clear: both;
@@ -196,7 +205,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/* This is the Made with <3 section of the webpage  */
 .footer h2 {
   font-size: 20px;
 }
